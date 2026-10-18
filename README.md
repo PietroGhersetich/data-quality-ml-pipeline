@@ -1,6 +1,6 @@
-# Data Science and Machine Learning Pipeline
+# Data Quality and Machine Learning Pipeline
 
-This repository contains a data science pipeline and machine learning project developed for the **Data Information Quality** course at **Politecnico di Milano** (A.Y. 2025/2026).
+This repository contains a data quality pipeline and machine learning project developed for the **Data Information Quality** course at **Politecnico di Milano** (A.Y. 2025/2026).
 
 Using a real-world business registry dataset, the project assesses data quality, applies a structured cleaning pipeline, and evaluates the cleaned data through a downstream multi-label classification task. Further details are available in the [Project Report](report/data_information_quality_report.pdf).
 
